@@ -80,3 +80,9 @@ Me chamo Isaque Barros, tenho 21 anos e estou no 5º semestre de Engenharia de S
   />
 
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaquebp/isaquebp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaquebp/isaquebp/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isaquebp/isaquebp/output/github-contribution-grid-snake.svg">
+</picture>
