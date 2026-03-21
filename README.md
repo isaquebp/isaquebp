@@ -5,7 +5,7 @@
 Me chamo Isaque Barros, tenho 21 anos e estou no 5º semestre de Engenharia de Software pela UDF, com foco em me tornar desenvolvedor Fullstack e maior interesse no ecossistema Java. Atualmente estou dedicando meus estudos ao desenvolvimento de software e desenvolvimento web, buscando construir uma base sólida em programação, lógica e boas práticas de desenvolvimento.
 
 <p align="left">
-    <a href="https://linkedin.com/in/isaquebp" target:"_blank">
+    <a href="https://linkedin.com/in/isaquebp" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     
