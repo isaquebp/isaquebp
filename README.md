@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Isaque Barros
 
-**`Desenvolvedor FullStack`**
+**`Software Engineer`**
 
 Me chamo Isaque Barros, tenho 21 anos e estou no 5º semestre de Engenharia de Software pela UDF, com foco em me tornar desenvolvedor Fullstack. Atualmente estou dedicando meus estudos ao desenvolvimento de software e desenvolvimento web, buscando construir uma base sólida em programação, lógica e boas práticas de desenvolvimento.
 
